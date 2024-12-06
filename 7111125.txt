@@ -1,0 +1,8 @@
+en este curso aprendi sobre el uso de repositorios remotos con la aplicacion git y los diferentes comandos
+para agregar archivos, acualizarlos y modificarlos.
+la herramienta git nos facilita el trbajo en equipo y ns permite hacer un seguimeinto a los proyectos.
+git es un espacio virtual donde se guardan versiones de un proyecto, como archivos, codigo e historial de revisiones.
+
+primer cambio
+
+segundo cambio
